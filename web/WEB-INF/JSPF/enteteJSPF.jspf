@@ -1,4 +1,0 @@
-<%-- any content can be specified here e.g.: --%>
-<%@ page pageEncoding="UTF-8" %>
-<img src="Image/logo-sdis.png" alt="Logo SDIS"/>
-<h1>SDIS29</h1>
