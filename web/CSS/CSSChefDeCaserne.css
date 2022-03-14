@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 oct. 2021, 09:32:32
+    Author     : frederic.duhin
+*/
+
+@font-face { 
+
+	
+}
+
+.navbar {
+  background-color: red;
+  
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+
+  color: #DEDEDE;
+  text-decoration: none;
+
+}
+
+/* Fin CSS navbar */
+
+.profil {
+    margin-top: 6em;
+    border: 1px black solid;
+    border-radius: 10px;
+    padding-bottom: 6em;
+}
+
+#divPhotoProfil {
+    width: 5%;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 1.4em;
+}
+
+
+#profilGlobal {
+    text-align: left;
+    width: 50%;
+    margin-left: 20em;
+    margin-top: 2em;
+    padding-left: 1em;
+    font-size: 1.3em;
+    
+}
+
+body {
+    background-image: url(../Image/sdisFond.jpg);
+}
+
+.profil {
+    background-color: #DFDFDF;
+}
+
+#photoProfil {
+    border : 2px black solid;
+    padding-top: 2em;
+    width: 250%;
+    height: 130px;
+}
